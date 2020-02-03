@@ -22,6 +22,7 @@ def bonus
 
   #code your solution here:
   epic_tragedy[:montague][:patriarch][:status] = "dead"
+  
 
   
 
